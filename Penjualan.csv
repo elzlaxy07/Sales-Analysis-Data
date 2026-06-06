@@ -1,0 +1,51 @@
+ID_Transaksi,Tanggal,Produk,Kategori,Jumlah,Harga_Satuan,Total_Bayar,Pelanggan,Kota
+1,2023-11-01,Laptop,Elektronik,1,15000000,15000000,Andi,Jakarta
+2,2023-11-01,Mouse,Elektronik,2,150000,300000,Budi,Surabaya
+3,02/11/2023,Smartphone,Elektronik,1,5000000,5000000,Citra,Bandung
+4,2023-11-03,Meja Belajar,Furniture,1,,700000,Dewi,Jakarta
+5,2023-11-04,Kursi,Furniture,4,200000,800000,Eko,Medan
+6,2023-11-05,Laptop,elektronik,1,15000000,15000000,Andi,Jakarta
+7,,Smartphone,Elektronik,2,5000000,10000000,Fani,Surabaya
+8,2023-11-07,Mouse,Elektronik,100,150000,15000000,Gani,Bali
+9,2023-11-08,Meja Belajar,Furniture,1,700000,700000,Hani,Bandung
+10,2023-11-08,Kursi ,Furnitur ,2,200000,400000,Ivan,Jakarta
+11,2023-11-09,Laptop,Elektronik,1,15000000,15000000,,Medan
+12,2023-11-10,Smartphone,Elektronik,-1,5000000,-5000000,Joko,Surabaya
+13,2023-11-11,Mouse,Elektronik,3,150000,450000,Kiki,Jakarta
+14,2023-11-12,Monitor,Elektronik,1,2500000,2500000,Lani,Bandung
+15,13-11-2023,Monitor,Elektronik,1,2500000,2500000,Mira,Jakarta
+16,2023-11-14,Meja Belajar,Furniture,2,700000,1400000,Novi,Surabaya
+17,2023-11-15,Kursi,Furniture,1,200000,200000,Oki,Medan
+18,2023-11-16,Laptop,Elektronik,1,15000000,15000000,Pia,Bali
+19,2023-11-17,Mouse,elektronik,5,150000,750000,Qori,Jakarta
+20,2023-11-18,Smartphone,Elektronik,1,5000000,5000000,Rian,Bandung
+21,2023-11-19,Meja Belajar,Furniture,1,700000,700000,Sari,Surabaya
+22,2023-11-20,Kursi,Furnitur,10,200000,2000000,Toni,Jakarta
+23,2023-11-21,Laptop,Elektronik,1,15000000,15000000,Uli,Medan
+24,2023-11-22,Mouse,Elektronik,2,150000,300000,Vina,Bali
+25,2023-11-23,Smartphone,Elektronik,1,5000000,5000000,Wawan,Jakarta
+26,2023-11-24,Monitor,elektronik,2,2500000,5000000,Xena,Surabaya
+27,2023-11-25,,Elektronik,1,150000,150000,Yuda,Bandung
+28,2023-11-26,Kursi,Furniture,3,200000,600000,Zizi,Jakarta
+29,2023-11-27,Laptop,Elektronik,1,15000000,15000000,Andi,Jakarta
+30,2023-11-28,Mouse,Elektronik,1,150000,150000,Budi,Surabaya
+31,2023-11-29,Smartphone,Elektronik,1,5000000,5000000,Citra,Bandung
+32,2023-11-30,Meja Belajar,Furniture,1,700000,700000,Dewi,Jakarta
+33,2023-12-01,Kursi,Furniture,2,200000,400000,Eko,Medan
+34,2023-12-02,Laptop,Elektronik,1,15000000,15000000,Fani,Surabaya
+35,2023-12-03,Mouse,Elektronik,4,150000,600000,Gani,Bali
+36,2023-12-04,Smartphone,Elektronik,1,5000000,5000000,Hani,Bandung
+37,2023-12-05,Meja Belajar,Furniture,1,700000,700000,Ivan,Jakarta
+38,2023-12-06,Kursi,Furniture,2,200000,400000,Joko,Surabaya
+39,2023-12-07,Laptop,Elektronik,1,15000000,15000000,Kiki,Jakarta
+40,2023-12-08,Mouse,Elektronik,1,150000,150000,Lani,Bandung
+41,2023-12-09,Smartphone,Elektronik,1,5000000,5000000,Mira,Jakarta
+42,2023-12-10,Monitor,Elektronik,2,2500000,5000000,Novi,Surabaya
+43,2023-12-11,Meja Belajar,Furniture,1,700000,700000,Oki,Medan
+44,2023-12-12,Kursi,Furniture,5,200000,1000000,Pia,Bali
+45,2023-12-13,Laptop,Elektronik,1,15000000,15000000,Qori,Jakarta
+46,2023-12-14,Mouse,Elektronik,2,150000,300000,Rian,Bandung
+47,2023-12-15,Smartphone,Elektronik,1,5000000,5000000,Sari,Surabaya
+48,2023-12-16,Monitor,Elektronik,1,2500000,2500000,Toni,Jakarta
+49,2023-12-17,Meja Belajar,Furniture,1,700000,700000,Uli,Medan
+50,2023-12-18,Kursi,Furniture,2,200000,400000,Vina,Bali
